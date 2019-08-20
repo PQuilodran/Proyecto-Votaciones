@@ -1,0 +1,3 @@
+Primero lo que debemos hacer es hacer una script de python para poder sacar la informacion de 	
+la camara de diputados para poder mandarlo a la base de mongobd la cual debe actualizarse siempre con l
+pagina de la camara de diputados.
