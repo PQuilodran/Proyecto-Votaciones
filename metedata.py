@@ -7,12 +7,12 @@ from urllib.error import URLError
  
 from bs4 import BeautifulSoup
 
-boletines = ["10268-12"]
+boletines = ["11934-15"]
 
 texto=" "
 try:
  
-    html = urlopen("http://opendata.camara.cl/wscamaradiputados.asmx/getSesionBoletinXML?prmSesionID=3731")
+    html = urlopen("http://opendata.camara.cl/wscamaradiputados.asmx/getSesionBoletinXML?prmSesionID=3737")
  
 except HTTPError as e:
  
@@ -27,7 +27,7 @@ else:
     
     res = BeautifulSoup(html.read(),"html5lib")
     #for i in range(len(boletines)):    
-    tags = res.findAll("proyecto_ley", {"boletin": '10268-12'})
+    tags = res.findAll("proyecto_ley", {"boletin": '11934-15'})
     for tag in tags:
         print(tag.getText())
         texto=texto + tag.getText()
