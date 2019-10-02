@@ -1,0 +1,6 @@
+votacion
+aprobado
+rechazado
+inabilitado
+diputado
+proyecto
