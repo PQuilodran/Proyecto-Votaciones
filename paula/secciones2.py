@@ -28,7 +28,7 @@ else:
  
     for tag in tags:
  
-        print(tag.getText())
+        #print(tag.getText())
         h=tag.getText()
   
 
@@ -39,7 +39,7 @@ else:
         html2 = urlopen("http://opendata.camara.cl/wscamaradiputados.asmx/getSesionBoletinXML?prmSesionID="+str(j))
         res2 = BeautifulSoup(html2.read(),"html5lib")
  
-        tags2 = res2.findAll("proyecto_ley")
+        tags2 = res2.findAll("proyecto_ley",{"boletin"})
     for tag2 in tags2:
  
         print(tag2.getText())
