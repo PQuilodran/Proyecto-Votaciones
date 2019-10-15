@@ -4,3 +4,85 @@ rechazado
 inabilitado
 diputado
 proyecto
+Ministerio del Interior y Seguridad Pública
+ vigilancia
+ orden publico 
+ seguridad
+ 
+ 
+Ministerio Secretaría General de Gobierno
+ presidente
+ discursos
+Ministerio de Economía, Fomento y Turismo
+ extrangeros
+ dolar
+ precio
+ economia 
+ crecimiento
+ estrucrura
+ privada
+ mercado
+ 
+ 
+Ministerio de Justicia y Derechos Humanos
+ derecho
+  mordernizacion
+ sistema
+ normas
+ acceso
+ derechos
+ seguridad ciudadana
+
+Ministerio de Salud
+ hospital
+ consultorio
+ medicamentos
+ vacunas
+ drogas
+ preventivo
+ prevencion
+ enfermedades
+ auge
+ fonasa
+ 
+Ministerio de Minería
+ cobre
+ seguridad
+ maquinaria
+ minerales
+ explotacion 
+ recursos
+ 
+ 
+Ministerio de Energía
+ luz
+ energia 
+ institucion
+ precios
+ 
+Ministerio de la Mujer y la Equidad de Género
+ derechos de la mujer
+ mujeres
+ 
+ 
+Ministerio de Relaciones Exteriores
+Ministerio de Hacienda
+ casa
+ subsidio
+ calidad
+ 
+Ministerio de Desarrollo Social y Familia
+ 
+Ministerio del Trabajo y Previsión Social
+Ministerio de Vivienda y Urbanismo
+Ministerio de Transportes y Telecomunicaciones
+Ministerio del Medio Ambiente
+Ministerio de las Culturas, las Artes y el Patrimonio
+Ministerio de Defensa Nacional
+Ministerio Secretaría General de la Presidencia
+Ministerio de Educación
+Ministerio de Obras Públicas
+Ministerio de Agricultura
+Ministerio de Bienes Nacionales
+Ministerio del Deporte
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
