@@ -75,14 +75,73 @@ Ministerio de Desarrollo Social y Familia
  
 Ministerio del Trabajo y Previsión Social
 Ministerio de Vivienda y Urbanismo
+
 Ministerio de Transportes y Telecomunicaciones
+	urbano
 Ministerio del Medio Ambiente
+	ambiente
+	limpio
+	limpienza
+	naturaleza
+	
 Ministerio de las Culturas, las Artes y el Patrimonio
+	cultura
+	arte
+	patrimonio
+	historia
+	edificios
 Ministerio de Defensa Nacional
+	carabineros
+	defensa
+	
 Ministerio Secretaría General de la Presidencia
 Ministerio de Educación
+	profesores
+	estudiantes
+	
+	
 Ministerio de Obras Públicas
 Ministerio de Agricultura
+	peces
+	pesca
+	cultivo
+	
 Ministerio de Bienes Nacionales
 Ministerio del Deporte
 Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+legal
+trasporte
+servicio
+respuesta
+calidad
+derecho 
+familia
+tribunal
+velocidad
+sociedad
+actividad
+salud
+accidente
+riesgo
+peligro
+proyectos
+nacional
+obras
+resultado
+leyes
+ley
+aprobado
+legislar
+cargo
+parlamenterios
+redes
+zonas
+pescadores
+artesanal
+proteger
+establece
+problema
+general
+contitucional
+acuicultura
+especie
